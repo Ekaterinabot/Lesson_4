@@ -58,3 +58,4 @@ print(retrieved_elements)
 >>> compare('Иванович', 'Аркадьевич')
 0.3
 >>>
+
